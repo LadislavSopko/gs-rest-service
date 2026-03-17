@@ -1,0 +1,30 @@
+2026-03-17 11:26:28 [stop_hook] debug log: /mnt/d/Projekty/AI_Works/Msvc.Info/Zerox.Lsai/tests/TestData/JavaTestProject/complete/cortex_db/stop-hook.log
+2026-03-17 11:26:28 [stop_hook] env: CORTEX_DATA_DIR=<unset>
+2026-03-17 11:26:28 [stop_hook] cwd=/mnt/d/Projekty/AI_Works/Msvc.Info/Zerox.Lsai/tests/TestData/JavaTestProject/complete
+2026-03-17 11:26:28 [stop_hook] processing session=83d6922a-baa transcript=/home/laco/.claude/projects/-mnt-d-Projekty-AI-Works-Msvc-Info-Zerox-Lsai/83d6922a-baab-4928-be93-219abdcbc592.jsonl
+2026-03-17 11:26:28 [stop_hook] OK: session=83d6922a-baa inserted=73 turns, offset=0→690
+2026-03-17 11:26:28 [stop_hook] done in 0.07s
+2026-03-17 11:29:49 [stop_hook] debug log: /mnt/d/Projekty/AI_Works/Msvc.Info/Zerox.Lsai/tests/TestData/JavaTestProject/complete/cortex_db/stop-hook.log
+2026-03-17 11:29:49 [stop_hook] env: CORTEX_DATA_DIR=<unset>
+2026-03-17 11:29:49 [stop_hook] cwd=/mnt/d/Projekty/AI_Works/Msvc.Info/Zerox.Lsai/tests/TestData/JavaTestProject/complete
+2026-03-17 11:29:49 [stop_hook] processing session=83d6922a-baa transcript=/home/laco/.claude/projects/-mnt-d-Projekty-AI-Works-Msvc-Info-Zerox-Lsai/83d6922a-baab-4928-be93-219abdcbc592.jsonl
+2026-03-17 11:29:49 [stop_hook] OK: session=83d6922a-baa inserted=2 turns, offset=690→697
+2026-03-17 11:29:49 [stop_hook] done in 0.05s
+2026-03-17 11:32:03 [stop_hook] debug log: /mnt/d/Projekty/AI_Works/Msvc.Info/Zerox.Lsai/tests/TestData/JavaTestProject/complete/cortex_db/stop-hook.log
+2026-03-17 11:32:03 [stop_hook] env: CORTEX_DATA_DIR=<unset>
+2026-03-17 11:32:03 [stop_hook] cwd=/mnt/d/Projekty/AI_Works/Msvc.Info/Zerox.Lsai/tests/TestData/JavaTestProject/complete
+2026-03-17 11:32:03 [stop_hook] processing session=83d6922a-baa transcript=/home/laco/.claude/projects/-mnt-d-Projekty-AI-Works-Msvc-Info-Zerox-Lsai/83d6922a-baab-4928-be93-219abdcbc592.jsonl
+2026-03-17 11:32:03 [stop_hook] OK: session=83d6922a-baa inserted=4 turns, offset=697→729
+2026-03-17 11:32:03 [stop_hook] done in 0.05s
+2026-03-17 12:34:11 [stop_hook] debug log: /mnt/d/Projekty/AI_Works/Msvc.Info/Zerox.Lsai/tests/TestData/JavaTestProject/complete/cortex_db/stop-hook.log
+2026-03-17 12:34:11 [stop_hook] env: CORTEX_DATA_DIR=<unset>
+2026-03-17 12:34:11 [stop_hook] cwd=/mnt/d/Projekty/AI_Works/Msvc.Info/Zerox.Lsai/tests/TestData/JavaTestProject/complete
+2026-03-17 12:34:11 [stop_hook] processing session=83d6922a-baa transcript=/home/laco/.claude/projects/-mnt-d-Projekty-AI-Works-Msvc-Info-Zerox-Lsai/83d6922a-baab-4928-be93-219abdcbc592.jsonl
+2026-03-17 12:34:11 [stop_hook] OK: session=83d6922a-baa inserted=3 turns, offset=729→759
+2026-03-17 12:34:11 [stop_hook] done in 0.05s
+2026-03-17 12:34:17 [stop_hook] debug log: /mnt/d/Projekty/AI_Works/Msvc.Info/Zerox.Lsai/tests/TestData/JavaTestProject/complete/cortex_db/stop-hook.log
+2026-03-17 12:34:17 [stop_hook] env: CORTEX_DATA_DIR=<unset>
+2026-03-17 12:34:17 [stop_hook] cwd=/mnt/d/Projekty/AI_Works/Msvc.Info/Zerox.Lsai/tests/TestData/JavaTestProject/complete
+2026-03-17 12:34:17 [stop_hook] processing session=83d6922a-baa transcript=/home/laco/.claude/projects/-mnt-d-Projekty-AI-Works-Msvc-Info-Zerox-Lsai/83d6922a-baab-4928-be93-219abdcbc592.jsonl
+2026-03-17 12:34:17 [stop_hook] OK: session=83d6922a-baa inserted=2 turns, offset=759→766
+2026-03-17 12:34:17 [stop_hook] done in 0.05s
